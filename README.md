@@ -20,7 +20,7 @@ This project uses the following environment variables:
 - Clone the repository
 
 ```bash
-git clone https://github.com/EdraakSystems/
+git clone https://github.com/Muaazbinsaeed/Node-Nest-Mongodb-CRUD.git
 ```
 
 - Install dependencies
