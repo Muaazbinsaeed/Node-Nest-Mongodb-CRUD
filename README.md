@@ -1,5 +1,8 @@
 # NodeJS-NestJS-MongoDB-CRUD-Demo
 
+![alt text](https://github.com/Muaazbinsaeed/Node-Nest-Mongodb-CRUD/blob/main/project-swagger.png?raw=true)
+
+
 # Environment Variables
 
 This project uses the following environment variables:
